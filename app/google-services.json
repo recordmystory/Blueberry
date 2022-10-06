@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1004760572507",
+    "firebase_url": "https://blueberry-57918-default-rtdb.firebaseio.com",
+    "project_id": "blueberry-57918",
+    "storage_bucket": "blueberry-57918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004760572507:android:f0ac59bf8d4e2d1df8d57e",
+        "android_client_info": {
+          "package_name": "com.example.blueberry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004760572507-nuup0otfh6eaori5oscsacqqha512e1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blueberry",
+            "certificate_hash": "64f4be5d149dfb025214ad203585f14bbaff1963"
+          }
+        },
+        {
+          "client_id": "1004760572507-ads46q3sdrvudtjr1isb3fd0f1d4s53q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP80lY8Eu_do8IHf2ljNVKHKe2idJSkHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004760572507-ads46q3sdrvudtjr1isb3fd0f1d4s53q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
